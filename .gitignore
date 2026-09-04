@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+sample_resume.pdf
+# Database files
+*.db
+*.sqlite3
